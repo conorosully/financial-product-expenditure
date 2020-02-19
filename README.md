@@ -4,6 +4,7 @@ A logistic regression analysis on financial product expenditure in South Africa.
 <br>
 Project Paper: <b>Publication:</b> <a href="https://github.com/conorosully/financial-product-expenditure/blob/master/OSLCON001%20final%20hand%20in%202016.pdf"> here </a>
 <br>
+<br>
 <table>
   <tr>
     <th>File</th>
